@@ -1,0 +1,1 @@
+git checkout -b automation/init && git add . && git commit -m "Initialize NE.B.RU complete automation system" && git push -u origin automation/init
